@@ -2,7 +2,7 @@
 
 - **Họ tên:** Lã Đức Phát
 - **Lớp:** CNTT2
-- **Link repository:**
+- **Link repository:https://github.com/Phazt07/K26_NMCNTT_CNTT2.git**
 - **Hệ điều hành (Windows/macOS):** Windows
 
 ## Phần A. Tổ chức thư mục bằng GUI
