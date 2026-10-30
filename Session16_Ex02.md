@@ -14,7 +14,8 @@ Bài 2:
 | :---- | :---- |
 | Trưởng phòng nhân sự | Người chỉnh sửa |
 | Trưởng bộ phận  | Người nhận xét |
-| Ứng viên | Người xem |
+| Nhân viên | Người xem |
+| Ứng viên | Không có quyền |
 
 * Kịch bản 3 Bước xử lý:  
   Bước 1: Mở Google Drive, nhấp chuột phải vào file danh sách CV và chọn Chia sẻ \> Quản lý quyền truy cập.  
