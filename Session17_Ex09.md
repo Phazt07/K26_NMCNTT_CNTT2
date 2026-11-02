@@ -9,7 +9,7 @@
 3. Xây dựng cây thư mục Bookmark chuẩn gồm 3 thư mục chính với các dịch vụ web tương ứng.  
 4. Hướng dẫn mẹo Favicon-Only và xử lý bẫy an ninh (Guest Profile vs Incognito, rủi ro Cloud Sync).
 
-### **PHẦN 3: CÁCH LÀM (LỜI GIẢI NGẮN GỌN)**
+### **PHẦN 3: CÁCH LÀM**
 
 #### **1\. Nguyên nhân văng phiên (Session Conflict):**
 
